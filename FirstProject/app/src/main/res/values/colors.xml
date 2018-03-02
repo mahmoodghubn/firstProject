@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="phone">#00BCD4</color>
+    <color name="location">#9C27B0</color>
+    <color name="email">#FF8F00</color>
+    <color name="web">#3F51B5</color>
+    <color name="hours">#4CAF50</color>
+    <color name="iti">#212121</color>
+    <color name="contact">#880E4F</color>
+    <color name="description">#009688</color>
+
+
+</resources>

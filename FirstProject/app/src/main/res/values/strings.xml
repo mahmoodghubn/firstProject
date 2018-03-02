@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FirstProject</string>
+    <string name="phone">+90 212 283 64 66</string>
+    <string name="email">nfo@iti-istanbul.com</string>
+    <string name="web">www.iti-istanbul.com</string>
+    <string name="hours">10:00 a.m. – 9:30 p.m. Mon through Fri</string>
+    <string name="URLLocation">https://www.google.com.tr/maps/place/ITI+Istanbul/@41.08903,29.0024593,17z/data=!4m5!3m4!1s0x0:0x19cb17fca94537ac!8m2!3d41.089136!4d29.004978</string>
+    <string name="location"><u>Sanayi Mh., Silahtar Sk. No:9, 34415</u></string>
+    <string name="description">ITI International Training Institute\nEnglish, Turkish, Yoga and more</string>
+    <string name="name">ITI ISTANBUL</string>
+    <string name="contact">CONTACT</string>
+
+
+</resources>
